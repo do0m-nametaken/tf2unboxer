@@ -10,6 +10,7 @@ export let dataUi = {
         rom: "Armele obtinute din aceasta cutie vor avea o calitate Stranie.",
 		swe: "Vapen som erhålls från denna låda kommer att ha den Avvikande kvaliteten.",
 		fil: "Ang mga armas na makukuha sa kahon ay magkakaroon ng kalidad na Strange.",
+	    	ceb: "Ang mga hinagiban nga makuha gikan niini nga crate adunay Strange nga kalidad.",
     },
     2: {
         eng: "Items obtained from this crate might have the Strange quality.",
@@ -21,7 +22,8 @@ export let dataUi = {
         hun: "Ebben a ládában található tárgyak Fura minőségűek lehetnek.",
         rom: "Obiectele obtinute din aceasta cutie pot avea o calitate Stranie.",
 		swe: "Föremål som erhålls från denna låda kan ha den Avvikande kvaliteten.",
-		fil: "Mga aytem na makukuha sa kahon ay maaring magkakaroon ng kalidad na Strange.",
+		fil: "Ang mga aytem na makukuha sa kahon ay maaring magkakaroon ng kalidad na Strange.",
+	    	ceb: "Ang mga butang nga makuha gikan niini nga crate mahimong adunay Katingad-an nga kalidad.",
     },
     3: {
         eng: "Items obtained from this crate will have the Haunted quality.",
@@ -33,7 +35,8 @@ export let dataUi = {
         hun: "Ebben a ládában található tárgyak Kísértetjárta minőségűek lesznek.",
         rom: "Obiectele obtinute din aceasta cutie vor avea o calitate Bantuita.",
 		swe: "Föremål som erhålls från denna låda kommer att ha den Hemsökta kvaliteten.",
-	    fil: "Mga aytem na makukuha sa kahon ay magkakaroon ng kalidad na Haunted."
+	    fil: "Ang mga aytem na makukuha sa kahon ay magkakaroon ng kalidad na Haunted.",
+	    ceb: "Ang mga butang nga makuha gikan niini nga crate adunay Haunted nga kalidad.",
     },
     4: {
         eng: "Items obtained from this crate may have Strange and/or Unusual quality.",
@@ -45,7 +48,8 @@ export let dataUi = {
         hun: "Ebben a ládában található tárgyak Fura és/vagy Rendkívüli minőségűek lehetnek.",
         rom: "Obiectele obtinute din aceasta cutie pot avea calitate Stranie si/sau calitate Neobisnuita.",
 		swe: "Föremål som erhålls från denna låda kan ha den Avvikande och/eller Ovanlig kvaliteten.",
-		fil: "Mga aytem na makukuha sa kahon ay maaring Strange at/o Unusual na kalidad."
+		fil: "Ang mga aytem na makukuha sa kahon ay maaring Strange at/o Unusual na kalidad.",
+	    	ceb: "Ang mga butang nga makuha gikan niini nga crate mahimong adunay Strange ug/or Unusual nga kalidad.",
     },
     5: {
         eng: "Items obtained from this case may have Strange and/or Unusual quality.",
@@ -57,7 +61,8 @@ export let dataUi = {
         hun: "Ebben a táskában található tárgyak Fura és/vagy Rendkívüli minőségűek lehetnek.",
         rom: "Obiectele obtinuite din aceasta cutie pot avea calitate Stranie si/sau calitate Neobisnuita.",
 		swe: "Föremål som erhålls från denna låda kan ha den Avvikande och/eller Ovanlig kvaliteten.",
-		fil: "Mga aytem na makukuha sa kaso ay maaring Strange at/o Unusual na kalidad."
+		fil: "Ang mga aytem na makukuha sa kaso ay maaring Strange at/o Unusual na kalidad.",
+	    	ceb: "Ang mga butang nga makuha gikan niini nga case mahimong adunay Strange ug/or Unusual nga kalidad.",
     },
     6: {
         eng: "Weapons obtained from this crate will have the Strange quality and cosmetics might have the Strange quality.",
@@ -69,7 +74,8 @@ export let dataUi = {
         hun: "Ebben a ládában található fegyverek Fura minőségűek lesznek és a díszítők Fura minőségűek lehetnek.",
         rom: "Armele obtinute din aceasta cutie vor avea o calitate Stranie iar cosmeticele pot avea o calitate Stranie.",
 		swe: "Vapen som erhålls från denna låda kommer att ha den Avvikande kvaliteten, och kosmetiker kan ha den Avvikande kvaliteten.",
-		fil: "Ang mga armas na makukuha sa kahon ay magkakaroon ng kalidad na Strange at ang mga kosmetiko ay maaring magkaroon ng Strange na kalidad."
+		fil: "Ang mga armas na makukuha sa kahon ay magkakaroon ng kalidad na Strange at ang mga kosmetiko ay maaring magkaroon ng Strange na kalidad.",
+	    	ceb: "Ang mga butang nga makuha gikan niini nga crate adunay Strange nga kalidad unya kung kosmetik mahimong adunay Strange nga kalidad.",
 		
     },
     7: {
@@ -82,7 +88,8 @@ export let dataUi = {
         hun: "Ebben a ládában található tárgyak Rendkívüli minőségűek lehetnek.",
         rom: "Obiectele obtinute din aceasta cutie pot avea calitate Neobisnuita.",
 		swe: "Föremål som erhålls från denna låda kan ha den Ovanlig kvaliteten.",
-		fil: "Mga aytem na makukuha sa kahon ay maaring Unusual na kalidad."
+		fil: "Mga aytem na makukuha sa kahon ay maaring Unusual na kalidad.",
+	    	ceb: "Ang mga butang nga makuha gikan niini nga crate mahimong adunay Unusual nga kalidad.",
     },
     8: {
         eng: "Items obtained from this crate may have Strange and Haunted quality.",
@@ -94,7 +101,8 @@ export let dataUi = {
         hun: "Ebben a ládában található tárgyak Fura és Kísértetjárta minőségűek lehetnek.",
         rom: "Obiectele obtinute din aceasta cutie pot avea calitate Stranie si calitate Bantuita.",
 		swe: "Föremål som erhålls från denna låda kan ha den Avvikande och Hemsökta kvaliteten.",
-		fil: "Mga aytem na makukuha sa kahon ay maaring Strange o Haunted na kalidad."
+		fil: "Mga aytem na makukuha sa kahon ay maaring Strange o Haunted na kalidad.",
+	    	ceb: "Ang mga butang nga makuha gikan niini nga crate mahimong adunay Unusual ug Haunted nga kalidad.",
     },
     9: {
         eng: "Options",
@@ -106,7 +114,8 @@ export let dataUi = {
         hun: "Beállítások",
         rom: "Optiuni",
 		swe: "Alternativ",
-		fil: "Pagpipilian"
+		fil: "Pagpipilian",
+	    	ceb: "Opsiyon",
     },
     10: {
         eng: "Statistics",
@@ -118,7 +127,8 @@ export let dataUi = {
         hun: "Statisztikák",
         rom: "Statistici",
 		swe: "Statistik",
-		fil: "Istatistika"
+		fil: "Istatistika",
+	    	ceb: "Istatistika"
     },
     11: {
         eng: "Grid view",
@@ -130,7 +140,8 @@ export let dataUi = {
         hun: "Táblázat",
         rom: "Vizualizare grila",
 		swe: "Rutnätvy",
-		fil: "Tingnan ang parilya"
+		fil: "Tanawing parilya",
+	    	ceb: "Byu nga parilya",
     },
     12: {
         eng: "Details view",
@@ -142,7 +153,8 @@ export let dataUi = {
         hun: "Részletes nézet",
         rom: "Vizualizare detalii",
 		swe: "Detaljvy",
-		fil: "Tingnan ang mga ditalye"
+		fil: "Tanawing detalye",
+	    	ceb: "Byu nga detalye"
     },
     13: {
         eng: "Unbox my loot!",
@@ -154,7 +166,8 @@ export let dataUi = {
         hun: "Zsákmány kibontása!",
         rom: "Deschidemi bunurile!",
 		swe: "Öppna min byte!",
-		fil: "Buksan ang aking sako!"
+		fil: "Buksan ang aking sako!",
+	    	ceb: "Ambi ang akong nakuha!",
     },
     14: {
         eng: "Random crate",
@@ -166,7 +179,8 @@ export let dataUi = {
         hun: "Véletlenszerű láda",
         rom: "Cutie aleatorie",
 		swe: "Slumpmässig låda",
-		fil: "Sapalaran na kahon"
+		fil: "Sapalaran na kahon",
+	    	ceb: "Random nga crate"
     },
     15: {
         eng: "Return",
@@ -178,7 +192,8 @@ export let dataUi = {
         hun: "Vissza",
         rom: "Intoarce",
 		swe: "Återvänd",
-		fil: "Balik"
+		fil: "Balik",
+	    	ceb: "Balik",
     },
     16: {
         eng: "Effects",
@@ -190,7 +205,8 @@ export let dataUi = {
         hun: "Effektek",
         rom: "Efecte",
 		swe: "Effekter",
-		fil: "Mga epekto"
+		fil: "Mga epekto",
+	    	ceb: "Mga epekto",
     },
     17: {
         eng: "Loot",
@@ -202,7 +218,8 @@ export let dataUi = {
         hun: "Zsákmány",
         rom: "Bunuri",
 		swe: "Byte",
-		fil: "Sako"
+		fil: "Pagkukunan",
+	    	cebu: "Nakuha",
     },
     18: {
         eng: "More info",
@@ -214,7 +231,8 @@ export let dataUi = {
         hun: "További információk",
         rom: "Mai multe informatii",
 		swe: "Mer information",
-		fil: "Iba pang impormasyon"
+		fil: "Iba pang impormasyon",
+	    	ceb: "Dugang impormasyon",
     },
     19: {
         eng: "Unbox again",
@@ -226,7 +244,8 @@ export let dataUi = {
         hun: "Kinyitás újból",
         rom: "Deschide iar",
 		swe: "Öppna igen",
-		fil: "Ibuksan ulit"
+		fil: "Ibuksan ulit",
+	    	ceb: "Abli balik"
     },
     20: {
         eng: "General",
@@ -238,7 +257,8 @@ export let dataUi = {
         hun: "Általános",
         rom: "General",
 		swe: "Allmän",
-		fil: "Pangkalahatan"
+		fil: "Pangkalahatan",
+	    	ceb: "Jeneral"
     },
     21: {
         eng: "Unusuals",
@@ -250,6 +270,7 @@ export let dataUi = {
         hun: "Rendkívüliek",
         rom: "Obiecte neobisnuite",
 		swe: "Ovanliga",
+	    	fil: "Mga Unusual",
     },
     22: {
         eng: "Inventory",
@@ -261,7 +282,8 @@ export let dataUi = {
         hun: "Leltár",
         rom: "Inventar",
 		swe: "Lager",
-		fil: "Imbentaryo"
+		fil: "Imbentaryo",
+	    	ceb: "Imbentaryo",
     },
     23: {
         eng: "Return to main menu",
@@ -273,7 +295,8 @@ export let dataUi = {
         hun: "Vissza a főmenübe",
         rom: "Intoarce-te la meniu",
 		swe: "Återvänd till huvudmenyn",
-		fil: "Bumalik sa pangunahing menu"
+		fil: "Bumalik sa pangunahing menu",
+	    	ceb: "Balik sa nag-una nga menu"
     },
     24: {
         eng: "Return to list",
@@ -285,7 +308,8 @@ export let dataUi = {
         hun: "Vissza a listához",
         rom: "Intoarce-te la lista",
 		swe: "Återvänd till lista",
-		fil: "Bumalik sa listahan"
+		fil: "Bumalik sa listahan",
+	    	ceb: "Balik sa listahan",
     },
     25: {
         eng: "Changelog",
@@ -297,7 +321,8 @@ export let dataUi = {
         hun: "Változási napló",
         rom: "Actualizari",
 		swe: "Förändringslogg",
-		fil: "Ang pagbabago"
+		fil: "Ang pagbabago",
+	    	ceb: "Unsa ang bag-o/na-ilis"
     },
     26: {
         eng: "Credits",
@@ -309,7 +334,8 @@ export let dataUi = {
         hun: "Készítők",
         rom: "Credite",
 		swe: "Medverkande",
-		fil: "Mga Kredito"
+		fil: "Mga Kredito",
+	    	ceb: "Kredits",
     },
     27: {
         eng: "Off",
@@ -321,7 +347,6 @@ export let dataUi = {
         hun: "Ki",
         rom: "Oprit",
 		swe: "Av",
-		fil: "Ipatay"
     },
     28: {
         eng: "On",
@@ -333,7 +358,6 @@ export let dataUi = {
         hun: "Be",
         rom: "Deschis",
 		swe: "På",
-		fil: "Ibukas"
     },
     29: {
         eng: "Reset",
@@ -345,7 +369,6 @@ export let dataUi = {
         hun: "Visszaállítás",
         rom: "Resetare",
 		swe: "Återställ",
-		fil: "I-reset"
     },
     30: {
         eng: "This crate contains one of the following items:",
@@ -357,7 +380,8 @@ export let dataUi = {
         hun: "Ez a láda az alábbiak egyikét tartalmazza:",
         rom: "Aceasta cutie contine unul dintre urmatoarele obiecte:",
 		swe: "Denna låda innehåller något av följande:",
-		fil: "Itong kahon ay naglalaman ng isa sa sumusunod na mga aytem:"
+		fil: "Itong kahon ay naglalaman ng isa sa sumusunod na mga aytem:",
+	    	ceb: "Kini nga crate adunay usa sa mosunod nga mga butang:",
     },
     31: {
         eng: "Unusuals may have one of the following effects:",
@@ -369,7 +393,8 @@ export let dataUi = {
         hun: "A Rendkívüli effektek az alábbiak egyike lehet:",
         rom: "Obiectele Neobisnuite pot avea unul dintre urmatoarele efecte:",
 		swe: "Ovanliga föremål kan ha en av följande effekter:",
-		fil: "Unusuals ay maaring merong isa sa sumusunod na mga epekto:"
+		fil: "Ang mga Unusual ay maaring merong isa sa sumusunod na mga epekto:",
+	    	ceb: "Ang mga Unusual adunay usa sa mosunod nga mga epekto:",
     },
     32: {
         eng: "Unusuals cannot be unboxed from this crate.",
@@ -381,7 +406,8 @@ export let dataUi = {
         hun: "Ebből a ládából nem nyithatók Rendkívüliek",
         rom: "Nu se pot deschide obiecte Neobisnuite din aceasta cutie.",
 		swe: "Ovanliga föremål kan inte öppnas från denna låda.",
-		fil: "Hindi maaring magbukas ng Unusuals sa kahon na ito."
+		fil: "Walang makuha na Unusual sa kahon na ito.",
+	    	ceb: "Walay makuha nga Unusual ani nga crate."
     },
     33: {
         eng: "Unboxing your loot",
